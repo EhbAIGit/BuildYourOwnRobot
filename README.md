@@ -18,7 +18,7 @@ The Wemos D1 WiFi board is a compact microcontroller board based on the ESP8266 
 <h3>Sensor shield v5.0</h3>
 The Arduino Sensor Shield V5 is a versatile expansion board designed to simplify the process of connecting and interfacing various sensors and modules with Arduino microcontroller boards. Compatible with Arduino Uno, Mega, and other similar boards, the Sensor Shield V5 offers a convenient way to expand the capabilities of your Arduino projects. It can be placed on top of the WEMOS D1 wifi board, so no soldering is required to connect all robot parts.
 
-![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/dcbcd783-eb0f-4380-8b44-6d9cdbed7d19)
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/dcbcd783-eb0f-4380-8b44-6d9cdbed7d19){:width="200px" height="100px"}
 
 
 <h3>360 degrees continuous rotation Servo's</h3>
@@ -30,7 +30,7 @@ The S3003 is a standard-sized servo motor manufactured by TowerPro. It's commonl
 <h3>Ultrasonic sensor (HC-SR04)</h3>
 The HC-SR04 is an ultrasonic distance sensor module commonly used in robotics, automation, and DIY electronics projects. It's popular due to its ease of use, low cost, and reliability.
 
-![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/04aeac5a-12db-411e-a368-67dc0d7a7c83)
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/04aeac5a-12db-411e-a368-67dc0d7a7c83){:width="200px" height="100px"}
 
 
 <h3>Male-Male jumping wires</h3>
