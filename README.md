@@ -120,7 +120,7 @@ This is the result in the serial monitor of the Arduino IDE
 
 
 
-<h2>programm file :  controlRobotViaWifi.ino</h2>
+<h2>program file :  controlRobotViaWifi.ino</h2>
 
 This program serves as a foundation. You can leverage it by inputting it into CHATGPT and request modifications or enhancements.
 
@@ -129,6 +129,7 @@ To utilize this program, adjust the SSID and password to match your local WiFi n
 Within this basic program, you gain control over the robot's movements: FORWARD, BACKWARD, LEFT, and RIGHT.
 
 ![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/494ff6ec-2240-47af-ac8d-eef0e879c3f0)
+
 ![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/8fd20eef-c623-4de5-909c-caca49ae5ff0)
 
 
