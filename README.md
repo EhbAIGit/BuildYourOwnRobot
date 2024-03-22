@@ -1,6 +1,6 @@
 # BuildYourOwnRobot
 
-<h1>Intro</h1>
+<h1>Workshop "Build your own robot and program it using generative AI (ChatGPT 3.5 Turbo) without writing any code yourself" </h1>
 Robotics & AI Workshop
 Erasmushogeschool Brussels, in collaboration with the Knowledge Center for AI & Robotics, invites you to dive into the future of technology through our exclusive Build Your Own Robot Workshop. This hands-on session is designed to ignite curiosity, enhance technical skills, and foster innovation among participants of all levels.
 
