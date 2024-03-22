@@ -4,6 +4,9 @@
 Robotics & AI Workshop
 Erasmushogeschool Brussels, in collaboration with the Knowledge Center for AI & Robotics, invites you to dive into the future of technology through our exclusive Build Your Own Robot Workshop. This hands-on session is designed to ignite curiosity, enhance technical skills, and foster innovation among participants of all levels.
 
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/da2615ae-53e2-447d-b569-9b512ba3bfbe)
+
+
 
 Workshop Overview:
 Embark on a journey through the realms of Artificial Intelligence and Robotics, guided by our team of expert educators and researchers. This workshop is your gateway to understanding and building robotic systems from scratch. Whether you're a student, hobbyist, or educator, this experience is crafted to equip you with the knowledge and tools to explore the fascinating world of robots and AI.
