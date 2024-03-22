@@ -1,3 +1,13 @@
+/*
+This program can be used as a base.  You can feed it to CHATGPT and ask to adapt is or add features.  
+To use this program  adapt the ssid and password, to set it to your own local wifi network
+
+When you connect in the Arduino IDE and open the serial monitor it will tell you the IP of the robot.
+Once you wrote down this IP,  you can navigate with your PC or mobile phone to that IP for example  http://192.168.0.100.  
+In this basic program you will be able to control the robot :  FORWARD, BACKWARD, LEFT and RIGHT
+*/
+
+
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
