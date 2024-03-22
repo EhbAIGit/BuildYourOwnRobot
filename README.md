@@ -43,7 +43,15 @@ We earn no commission but on Otronic.nl you can buy all the material needed for 
 Correctly connecting all components is crucial for proper functionality. While alternative connections are possible, the examples provided in the software utilize specific connections. Therefore, we recommend adhering to these suggested connections for optimal compatibility and ease of use.
 
 
-![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/e16dd134-0512-4b4b-a915-440e656cdbda)
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/df1cb4f4-ce3a-448a-92ee-717c718bef06)
+
+Remark that in the software these pins are as follows :
+
+servo_pin1 = D11;  // Left Servo 
+servo_pin2 = D12;  // right Servo
+ 
+trigger = D15;   // Ultrasonic sensor trigger pin
+echo    = D2;    // Ultrasonic sensor echo pin
 
 
 
@@ -77,9 +85,48 @@ We have following board LOLIN(WEMOS) D1 R1 :
 ![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/cb666b27-9e4e-4ff5-9514-a80fc0005c82)
 
 
-
-
 After selecting the board, you can proceed with writing and uploading sketches for the ESP8266 using the Arduino IDE as you would for any other Arduino board.
+
+
+<h2>Uploading a sketch program to your robot</h2>
+
+
+Open chatgpt and select the 3.5 turbo or a newer model if you have access to newest models.  In the chat set your context :
+
+
+"I have a WEMOS D1 R2 with an ultrasonic sensor (trigger pin D15 and echo pin D2). Can you write a program in Arduino that continuously displays the distance? Please do this without using the library, but simply using time measurement."
+
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/fd6c0181-2ee0-462f-af36-ec62ed57f5f7)
+
+
+
+<h3>Copy the generated code to your Arduino IDE</h3>
+
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/0ddeccf7-eb18-45ae-a1e5-afdcf329ba63)
+
+and click on upload :
+
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/0dab107a-9a91-4511-8079-e65be406218e)
+
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/b38d14c5-2f65-4bbd-acb0-e1d07c9381b7)
+
+
+This is the result in the serial monitor of the Arduino IDE
+
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/ec0c01e2-d98c-4dcd-a6ec-48c6097289dd)
+
+
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/b2afd1d9-ee6b-4b8d-b7c0-13b527c8a348)
+
+
+<h2>Ready to Explore Further Examples in this Code Repository?</h2>
+You've laid a solid foundation, and now it's time to delve into the myriad of examples waiting for you in this code repository.
+
+Get creative with your prompts and unleash the full potential of your robotic platform. Consider expanding its capabilities by integrating additional sensors and servos into the sensor shield. Furthermore, don't limit yourself to the confines of this specific platform – the vast array of Arduino shields available on the market opens up endless possibilities for building and customizing your own unique robot. With boundless opportunities at your fingertips, let your imagination soar beyond the horizon.
+
+
+
+
 
 
 
