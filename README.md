@@ -1,5 +1,15 @@
 # BuildYourOwnRobot
 
+<h1>Intro</h1>
+Robotics & AI Workshop
+Erasmushogeschool Brussels, in collaboration with the Knowledge Center for AI & Robotics, invites you to dive into the future of technology through our exclusive Build Your Own Robot Workshop. This hands-on session is designed to ignite curiosity, enhance technical skills, and foster innovation among participants of all levels.
+
+
+Workshop Overview:
+Embark on a journey through the realms of Artificial Intelligence and Robotics, guided by our team of expert educators and researchers. This workshop is your gateway to understanding and building robotic systems from scratch. Whether you're a student, hobbyist, or educator, this experience is crafted to equip you with the knowledge and tools to explore the fascinating world of robots and AI.
+
+<h1>Highly Affordable Custom-Built Educational Robot</h1>
+
 <img src="https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/90d1bc29-f0f3-4d4e-a446-6d2112df9fa9" alt="image" width="300" align="right">We Designing a two-wheeled robot on Tinkercad opens a world of possibilities for both beginners and experienced makers alike. Tinkercad's intuitive interface empowers users to effortlessly create intricate designs, making it an ideal platform for bringing robotics projects to life.
 
 Starting with the basic structure, users can craft the chassis to accommodate the motors, wheels, and other components. Tinkercad offers a diverse library of shapes and tools, enabling precise customization to meet specific project requirements. Whether it's adjusting dimensions or adding mounting points for sensors and actuators, Tinkercad provides the flexibility needed to realize unique designs.
@@ -9,6 +19,9 @@ Free downloadable design in Tinkercad :  https://www.tinkercad.com/things/hrbdbt
 
 
 <h2>Parts to buy</h2>
+
+We can procure all necessary parts for you. Every participant will have the chance to construct their very own robot and take the entire kit home. This initiative is designed to inspire continued exploration and innovation in the realms of robotics and AI beyond the workshop setting. The investment is modest—approximately 25 euros per robot—but the value you'll gain in knowledge, experience, and the joy of creation is immeasurable.
+
 
 <h3>WEMOS D1 Wifi</h3>
 <table>
