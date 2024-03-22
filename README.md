@@ -119,6 +119,13 @@ This is the result in the serial monitor of the Arduino IDE
 ![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/b2afd1d9-ee6b-4b8d-b7c0-13b527c8a348)
 
 
+
+<h2>controlwifi.ino</h2>
+
+![image](https://github.com/EhbAIGit/BuildYourOwnRobot/assets/74420584/494ff6ec-2240-47af-ac8d-eef0e879c3f0)
+
+
+
 <h2>Ready to Explore Further Examples in this Code Repository?</h2>
 You've laid a solid foundation, and now it's time to delve into the myriad of examples waiting for you in this code repository.
 
